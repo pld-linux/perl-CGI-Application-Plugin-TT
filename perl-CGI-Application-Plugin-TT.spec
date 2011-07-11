@@ -8,13 +8,13 @@
 Summary:	CGI::Application::Plugin::TT - Add Template Toolkit support to CGI::Application
 #Summary(pl.UTF-8):	
 Name:		perl-CGI-Application-Plugin-TT
-Version:	1.04
+Version:	1.05
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CGI/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d1b22bd5873911087ceb5d2c48311326
+# Source0-md5:	6e795c093a011cb701ab877deb0917a4
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/CGI-Application-Plugin-TT/
 BuildRequires:	perl-devel >= 1:5.8.0
