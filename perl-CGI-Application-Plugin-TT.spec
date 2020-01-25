@@ -4,7 +4,6 @@
 
 %define	pdir	CGI
 %define	pnam	Application-Plugin-TT
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::Application::Plugin::TT - Add Template Toolkit support to CGI::Application
 Name:		perl-CGI-Application-Plugin-TT
 Version:	1.05
